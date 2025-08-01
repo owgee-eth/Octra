@@ -19,3 +19,14 @@ Bu erken aşamada yer alarak ekosisteme ilk katılanlardan biri olabilirsin! Kat
 - Octra Client görevlerini yerine getir
 - Güncellemeler için takipte kal
 
+# 1. Octra Hesabı Oluşturma
+
+Bu bölümde bir Octra hesap cüzdanı nasıl oluşturulur birlikte keşfedeceğiz.
+
+İşlem sonucunda yepyeni bir Octra cüzdanına sahip olacak ve testnet işlemlerini gerçekleştirmeye başlayabileceksiniz!
+
+## 1.1. GitHub üzerinden bir fork yaratıyoruz.
+
+
+
+
