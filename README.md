@@ -1,6 +1,8 @@
+# Octra
+
 <img width="926" height="221" alt="Screenshot 2025-08-01 144619" src="https://github.com/user-attachments/assets/2b0aff75-2ccd-43da-bbbd-4a8d9c1a66d0" />
 
-# Octra
+# Testnet Rehberi
 
 Octra testnet rehberimiz yayında! 
 
