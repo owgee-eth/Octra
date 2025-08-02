@@ -67,6 +67,24 @@ bun start
 
 Octra cüzdan bilgilerinizi kaydetmeyi ve güvenli bir yerde saklamayı lütfen unutmayınız.
 
+# 2. Octra Testnet Token Talep Etme
+
+Bu bölümde, yarattığımız Octra hesap cüzdanımız için Octra testnet tokenları talep edeceğiz.
+
+Talep ettiğimiz tokenlarını Octra Client üzerinde gerçekleştireceğimiz görevler için kullanacağız.
+
+### 2.1. Octra Faucet
+
+https://faucet.octra.network/ adresine giderek Octra testnet tokenlarınızı talep edin.
+
+Bir validator olmadığınız üzere, lütfen "this is a validator address" seçeneğini işaretlemeyin.
+
+### 2.2. Discord Faucet
+
+Eğer resmi faucet haznesinde yeterli Octra testnet tokeni bulunmuyorsa, alternatif olarak Octranın Discord sunucusuna giderek "for-token-sharing" kanalına Octra cüzdan adresinizi yayınlayarak diğer kullanıcılardan test token talep edebilirsiniz.
+
+Octra Discrod: https://discord.gg/octra/
+
 
 
 
