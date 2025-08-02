@@ -63,7 +63,12 @@ bun run build
 bun start
 ```
 
-### 1.2.2. 
+### 1.2.2. Octra cüzdanımızı yaratıyoruz.
+
+Octra cüzdan bilgilerinizi kaydetmeyi ve güvenli bir yerde saklamayı lütfen unutmayınız.
+
+
+
 
 
 
