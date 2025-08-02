@@ -25,18 +25,45 @@ Bu bölümde bir Octra hesap cüzdanı nasıl oluşturulur birlikte keşfedeceğ
 
 İşlem sonucunda yepyeni bir Octra cüzdanına sahip olacak ve testnet işlemlerini gerçekleştirmeye başlayabileceksiniz!
 
-## 1.1. GitHub üzerinde bir fork yaratıyoruz.
+## 1.1. GitHub üzerinde bir fork yaratıyor ve Codespace oluşturuyoruz.
+
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/TR-dF0_h2_M/0.jpg)](https://www.youtube.com/watch?v=TR-dF0_h2_M)
+
+### 1.1.1. Fork Yaratma
 
 Octra Labs'in ilgili Github sayfasına girerek proje üzerinde bir fork yaratıyoruz:
 
 https://github.com/octra-labs/wallet-gen
 
-Video Rehber: [![Octra Wallet Generator](https://img.youtube.com/vi/TR-dF0_h2_M/0.jpg)](https://youtu.be/TR-dF0_h2_M)
+### 1.1.2. Codespace Oluşturrma
 
 Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 
+## 1.2. Terminal kullanarak Octra hesabımızı yaratıyoruz
 
+### Video Rehber
 
+[![Video Rehber](https://img.youtube.com/vi/7tbCkYM6_Qw/0.jpg)](https://www.youtube.com/watch?v=7tbCkYM6_Qw)
+
+### 1.2.1. Komutları terminale giriyoruz.
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+
+source ~/.bashrc
+
+bun --version
+
+bun install
+
+bun run build
+
+bun start
+```
+
+### 1.2.2. 
 
 
 
