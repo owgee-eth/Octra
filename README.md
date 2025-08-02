@@ -27,8 +27,11 @@ Bu bölümde bir Octra hesap cüzdanı nasıl oluşturulur birlikte keşfedeceğ
 
 ## 1.1. GitHub üzerinde bir fork yaratıyoruz.
 
-Octra Labs'in ilgili Github sayfasına girerek proje üzerinde bir fork yaratıyoruz.
+Octra Labs'in ilgili Github sayfasına girerek proje üzerinde bir fork yaratıyoruz:
+
 https://github.com/octra-labs/wallet-gen
+
+Video Rehber: [![Octra Wallet Generator](https://img.youtube.com/vi/TR-dF0_h2_M/0.jpg)](https://youtu.be/TR-dF0_h2_M)
 
 Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 
