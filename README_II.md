@@ -37,6 +37,10 @@ Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 
 # 2. OCS01 Test Client Kurulumu
 
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/GTPAixehwkg/0.jpg)](https://www.youtube.com/watch?v=GTPAixehwkg)
+
 ### 2.1. Komutları Terminale Giriyoruz
 
 ### 2.1.1. Server Update
