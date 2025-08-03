@@ -85,7 +85,7 @@ Eğer resmi faucet haznesinde yeterli Octra testnet tokeni bulunmuyorsa, alterna
 
 Octra Discord: https://discord.gg/octra/
 
-# 3. Octra Client Kurulumu ve Octra Testnet Görevlerini Yerine Getirin
+# 3. Octra Client Kurulumu ve Octra Testnet Görevlerini Yerine Getirme
 
 Bu bölümde, bir Octra Client'ın nasıl kurulacağını ve terminal aracılığı ile Octra testnet görevlerinin nasıl yerine getirilebileceğini birlikte keşfedeceğiz.
 
@@ -132,7 +132,51 @@ pip install -r requirements.txt
 cp wallet.json.example wallet.json
 ```
 
+## 3.3. Octra Cüzdanımızı Client'a Entegre Ediyoruz
 
+### Video Rehber
 
+[![Video Rehber](https://img.youtube.com/vi/3RUF5quDHzI/0.jpg)](https://www.youtube.com/watch?v=3RUF5quDHzI)
 
+### 3.3.1 Entegrasyon İşlemi
 
+```bash
+nano wallet.json
+```
+
+Komutu girerek cüzdan entegrason ekranına ulaşıyoruz.
+
+İlgili satırlara, B64 formatında private key'imizi ve Octra cüzdan adresimizi giriyoruz.
+
+### 3.3.2 Değişiklikleri Kaydetme
+
+Yaptığınız değişiklikleri kaydetmek için öncelikle CTRL + O (harf) tuşuna ve ardından Enter tuşuna basın.
+
+Son olarak ana terminal ekranına dönmek için CTRL + X tuşlarına basınız.
+
+## 3.4. Octra Client Ayrayüzüne Erişim Sağlıyoruz
+
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/p_dCZnG43YA/0.jpg)](https://www.youtube.com/watch?v=p_dCZnG43YA)
+
+### Client'ı Çalıştırma
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+python3 cli.py
+```
+
+Komutunu girerek Octra Client ayaryüzüne ulaşıyoruz.
+
+### Tekrar Erişim
+
+Octra Client oturumunuzu sonlandırdıktan sonra, ileride görevleri yapmaya devam etmek için Client'a tekrar erişmek isterseniz, yarattığımız GitHub Codespace'i yeniden başlatıyor ve şu konutları terminalimize girerek dilediğimiz zaman Octra Client arayüzüne erişebiliyoruz.
+
+```bash
+cd octra_pre_client
+python3 -m venv venv
+source venv/bin/activate
+python3 cli.py
+```
