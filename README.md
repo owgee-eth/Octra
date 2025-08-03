@@ -85,9 +85,11 @@ Eğer resmi faucet haznesinde yeterli Octra testnet tokeni bulunmuyorsa, alterna
 
 Octra Discord: https://discord.gg/octra/
 
-# 3. Octra Client Kurulumu ve Octra Testnet Görevlerini Yerine Getirme
+# 3. Octra Client Kurulumu
 
-Bu bölümde, bir Octra Client'ın nasıl kurulacağını ve terminal aracılığı ile Octra testnet görevlerinin nasıl yerine getirilebileceğini birlikte keşfedeceğiz.
+Bu bölümde, bir Octra Client'ın nasıl kurulacağını birlikte öğreneceğiz. 
+
+Bölüm sonunda, Octra testnet görevlerini yerine getirmek için kullanacağımız Octra Client arayüzüne giriş yapacağız.
 
 ## 3.1. GitHub Üzerinde Bir Fork Yaratıyor ve Codespace Oluşturuyoruz
 
@@ -180,3 +182,58 @@ python3 -m venv venv
 source venv/bin/activate
 python3 cli.py
 ```
+
+# 4. Octra Testnet Görevlerini Yerine Getirme
+
+Bu bölümde terminal aracılığı ile Octra testnet görevlerinin nasıl yerine getirilebileceğimizi birlikte keşfedeceğiz.
+
+## 4.1. Send Transaction
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/y4LkBqNx9-U/0.jpg)](https://www.youtube.com/watch?v=y4LkBqNx9-U)
+
+## 4.2. Refresh
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/4jkYx_4yoz4/0.jpg)](https://www.youtube.com/watch?v=4jkYx_4yoz4)
+
+## 4.3. Multi Send
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/2PHArrND6WQ/0.jpg)](https://www.youtube.com/watch?v=2PHArrND6WQ)
+
+## 4.4. Encrypt Balance
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/6IQ7ruv0KvI/0.jpg)](https://www.youtube.com/watch?v=6IQ7ruv0KvI)
+
+## 4.5. Decrypt Balance
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/SuS1jw8GRRA/0.jpg)](https://www.youtube.com/watch?v=SuS1jw8GRRA)
+
+## 4.6. Private Transfer
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/yRLnCHdVsuw/0.jpg)](https://www.youtube.com/watch?v=yRLnCHdVsuw)
+
+## 4.7. Claim Transfers
+### Video Rehber
+
+[![Video Rehber](https://img.youtube.com/vi/LFaBGO-z_x0/0.jpg)](https://www.youtube.com/watch?v=LFaBGO-z_x0)
+
+## 4.8. Export Keys
+
+Bu bölümde cüzdan bilgilerinizi görüntüleyebilir ve dilerseniz cüzdan anahtarlarınızı dışarı aktarabilirsiniz.
+
+## 4.9. Clear History
+
+İşlem geçmişinizi temizleyebilirsiniz.
+
+## 4.0. Exit
+
+Sistemden çıkış.
+
+
+
+
