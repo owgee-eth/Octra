@@ -192,6 +192,12 @@ Bu bölümde terminal aracılığı ile Octra testnet görevlerinin nasıl yerin
 
 [![Video Rehber](https://img.youtube.com/vi/y4LkBqNx9-U/0.jpg)](https://www.youtube.com/watch?v=y4LkBqNx9-U)
 
+Dilerseniz, Octra adresime tokenlarınızı gönderebilirsiniz:
+```bash
+oct81PC3iVTECdt2xwNBEdGqfCMUPiYV6rUYJqbGwmaxaH7
+```
+Alternatif olarak, https://octrascan.io/ adresine giderek daha fazla Octra cüzdanı bulabilir ve tokenlarınızı yeni kullanıcılar ile paylaşabilirsiniz.
+
 ## 4.2. Refresh
 ### Video Rehber
 
@@ -216,6 +222,12 @@ Bu bölümde terminal aracılığı ile Octra testnet görevlerinin nasıl yerin
 ### Video Rehber
 
 [![Video Rehber](https://img.youtube.com/vi/yRLnCHdVsuw/0.jpg)](https://www.youtube.com/watch?v=yRLnCHdVsuw)
+
+Dilerseniz, Octra adresime tokenlarınızı gönderebilirsiniz:
+```bash
+oct81PC3iVTECdt2xwNBEdGqfCMUPiYV6rUYJqbGwmaxaH7
+```
+Alternatif olarak, https://octrascan.io/ adresine giderek daha fazla Octra cüzdanı bulabilir ve tokenlarınızı yeni kullanıcılar ile paylaşabilirsiniz.
 
 ## 4.7. Claim Transfers
 ### Video Rehber
