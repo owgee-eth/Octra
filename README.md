@@ -241,6 +241,8 @@ Bu sürecin her adımında değer üreten, paylaşan ve birlikte öğrenen tüm 
 
 https://x.com/modularityx
 
+Ayrıca bu rehberi hazırlarken ilham aldığım @0xMoei’ye de bir teşekkürü borç bilirim.
+
 ### Yazarın Notu
 
 Bu tarz rehberlerin devamı gelsin diyorsanız, X profilimi takip etmeyi, gönderileri beğenip yorumlamayı ve paylaşmayı unutmayın.
