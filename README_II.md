@@ -35,7 +35,7 @@ https://github.com/octra-labs/ocs01-test
 
 Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 
-# 2. OCS01 Test Client Kurulumu
+# 2. "OCS01" Test Client Kurulumu
 
 ### Video Rehber
 
