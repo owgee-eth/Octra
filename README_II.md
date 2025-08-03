@@ -108,7 +108,7 @@ Terminalimizin komut satırına şu komutu girerek kurulumunu gerçekleştirdiğ
 
 ### 3.2. Görevleri Yerine Getirme
 
-Yayınladığımız Video Rehber yardımı ile Octral Labs'in henüz yayınladığı ve karmaşık matematik problemlerini dahi birkaç komut yardımıyla çözebilen yeni test kontratında yapabileceklerinizi keşfedin.
+Yayınladığımız Video Rehber yardımı ile Octra Labs'in henüz yayınladığı ve karmaşık matematik problemlerini dahi birkaç komut yardımıyla çözebilen yeni test kontratında yapabileceklerinizi keşfedin.
 
 ```bash
 1. greeting (get personal msg): mesaj alma fonksiyonu. sizi bir hoş geldin mesajı ile karşılar.
