@@ -18,4 +18,4 @@ Wallet Generator’ı kurduğunuz Codespace’i silebilirsiniz, yeni alan açmak
 
 ### Video Rehber
 [![Video Rehber](https://img.youtube.com/vi/DuvELCEbDqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=DuvELCEbDqs)
-
+[![Video Rehber](https://img.youtube.com/vi/DuvELCEbDqs/0.jpg)](https://www.youtube.com/watch?v=DuvELCEbDqs)
