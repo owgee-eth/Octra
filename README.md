@@ -162,7 +162,7 @@ Son olarak ana terminal ekranına dönmek için CTRL + X tuşlarına basınız.
 
 [![Video Rehber](https://img.youtube.com/vi/p_dCZnG43YA/0.jpg)](https://www.youtube.com/watch?v=p_dCZnG43YA)
 
-### Client'ı Çalıştırma
+### 3.4.1. Client'ı Çalıştırma
 
 ```bash
 python3 -m venv venv
@@ -172,7 +172,7 @@ python3 cli.py
 
 Komutunu girerek Octra Client ayaryüzüne ulaşıyoruz.
 
-### Tekrar Erişim
+### 3.4.2 Tekrar Erişim
 
 Octra Client oturumunuzu sonlandırdıktan sonra, ileride görevleri yapmaya devam etmek için Client'a tekrar erişmek isterseniz, yarattığımız GitHub Codespace'i yeniden başlatıyor ve şu konutları terminalimize girerek dilediğimiz zaman Octra Client arayüzüne erişebiliyoruz.
 
