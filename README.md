@@ -121,7 +121,7 @@ Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 sudo apt install python3 python3-pip python3-venv python3-dev -y
 ```
 
- - 3.2.1.2.Install CLI
+ - 3.2.1.2. Install CLI
 
 ```bash
 git clone https://github.com/octra-labs/octra_pre_client.git
