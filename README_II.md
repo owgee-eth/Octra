@@ -17,5 +17,4 @@ GitHub, aynı anda en fazla iki aktif codespace oluşturmanıza izin verir. Bu n
 Wallet Generator’ı kurduğunuz Codespace’i silebilirsiniz, yeni alan açmak için güvenli bir tercihtir. Ancak Octra Pre Client kurulumunu yaptığınız Codespace’i silmeyin, ileride görevleri yerine getirirken bu alanı tekrar kullanmanız gerekecek.
 
 ### Video Rehber
-[![Video Rehber](https://img.youtube.com/vi/DuvELCEbDqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=DuvELCEbDqs)
 [![Video Rehber](https://img.youtube.com/vi/DuvELCEbDqs/0.jpg)](https://www.youtube.com/watch?v=DuvELCEbDqs)
