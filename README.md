@@ -37,7 +37,7 @@ Octra Labs'in ilgili Github sayfasına girerek proje üzerinde bir fork yaratıy
 
 https://github.com/octra-labs/wallet-gen
 
-### 1.1.2. Codespace Oluşturrma
+### 1.1.2. Codespace Oluşturma
 
 Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 
