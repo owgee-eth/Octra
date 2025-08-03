@@ -4,6 +4,10 @@
 
 # Testnet Rehberi II
 
+Gelin Octral Labs'in henüz yayınladığı ve karmaşık matematik problemlerini dahi birkaç komut yardımıyla çözebilen yeni test kontratına birlikte göz atalım ve yapabileceklerimizi keşfedelim.
+
+Octra Client'a gelen bu güncelleme üzerinde işlem yapabilmek tecrübeli kullanıcılar için uygundur, eğer henüz bir Octra hesap cüzdanı oluşturmadyısanız veya Octra testnet işlemlerini daha önce gerçekleştirmediyseniz testnet rehberimize göz atabilirsiniz.
+
+https://github.com/owgee-eth/Octra/blob/main/README.md
 
 
-This is a copy of the README file.
