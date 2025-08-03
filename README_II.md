@@ -10,4 +10,12 @@ Octra Client’a gelen bu güncelleme, deneyimli kullanıcılar için uygundur. 
 
 https://github.com/owgee-eth/Octra/blob/main/README.md
 
+# Codespace Temizliği
+
+GitHub, aynı anda en fazla iki aktif codespace oluşturmanıza izin verir. Bu nedenle, yeni testnet işlemlerine başlamadan önce mevcut Codespacelerinizde temizlik yapmanız gerekebilir.
+
+Wallet Generator’ı kurduğunuz Codespace’i silebilirsiniz, yeni alan açmak için güvenli bir tercihtir. Ancak Octra Pre Client kurulumunu yaptığınız Codespace’i silmeyin, ileride görevleri yerine getirirken bu alanı tekrar kullanmanız gerekecek.
+
+### Video Rehber
+[![Video Rehber](https://img.youtube.com/vi/DuvELCEbDqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=DuvELCEbDqs)
 
