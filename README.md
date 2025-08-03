@@ -47,7 +47,7 @@ Yarattığımız bu fork üzerinde yeni bir Codespace oluşturuyoruz.
 
 [![Video Rehber](https://img.youtube.com/vi/7tbCkYM6_Qw/0.jpg)](https://www.youtube.com/watch?v=7tbCkYM6_Qw)
 
-### 1.2.1. Komutları Terminale Giriyoruz.
+### 1.2.1. Komutları Terminale Giriyoruz
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
@@ -234,4 +234,17 @@ Bu bölümde cüzdan bilgilerinizi görüntüleyebilir ve dilerseniz cüzdan ana
 
 Sistemden çıkış.
 
+### Teşekkür
 
+Bu rehber yalnızca bir içerik değil, Modularity topluluğunun vizyonu ve emeğinin bir yansıması.
+Bu sürecin her adımında değer üreten, paylaşan ve birlikte öğrenen tüm Modularity ailesine içten teşekkür ederim. 💚
+
+https://x.com/modularityx
+
+### Yazarın Notu
+
+Bu tarz rehberlerin devamı gelsin diyorsanız, X profilimi takip etmeyi, gönderileri beğenip yorumlamayı ve paylaşmayı unutmayın.
+
+Paylaşılan her bilgi, yeni bir başlangıcın kapısını açar. Birlikte kazanacağız. 💚
+
+https://x.com/owgee_eth
