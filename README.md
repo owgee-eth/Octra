@@ -185,7 +185,7 @@ python3 cli.py
 
 # 4. Octra Testnet Görevlerini Yerine Getirme
 
-Bu bölümde terminal aracılığı ile Octra testnet görevlerinin nasıl yerine getirilebileceğimizi birlikte keşfedeceğiz.
+Bu bölümde terminal aracılığı ile Octra testnet görevlerinin nasıl yerine getirilebileceğimizi ayrıntılı bir şekilde ve her görev için özenle düzenlenmiş videolu rehber yardımı ile birlikte keşfedeceğiz.
 
 ## 4.1. Send Transaction
 ### Video Rehber
