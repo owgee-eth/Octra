@@ -92,7 +92,7 @@ Yaptığınız değişiklikleri kaydetmek için öncelikle CTRL + O (harf) tuşu
 
 Son olarak ana terminal ekranına dönmek için CTRL + X tuşlarına basınız.
 
-# 3. OCS01 Test Client Görevleri
+# 3. "OCS01" Test Client Görevleri
 
 ### Video Rehber
 
