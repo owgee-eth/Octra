@@ -230,12 +230,8 @@ Bu bölümde cüzdan bilgilerinizi görüntüleyebilir ve dilerseniz cüzdan ana
 
 İşlem geçmişinizi temizleyebilirsiniz.
 
-## 4.0. Exit
+## 4.10. Exit
 
 Sistemden çıkış.
-
-<a href="https://www.youtube.com/watch?v=LFaBGO-z_x0" target="_blank">
-  <img src="https://img.youtube.com/vi/LFaBGO-z_x0/0.jpg" alt="Video Rehber" />
-</a>
 
 
