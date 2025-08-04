@@ -248,7 +248,7 @@ Sistemden çıkış.
 
 # 5. Güncellemeler İçin Takipte Kalın
 
-Octral Labs'in henüz yayınladığı ve karmaşık matematik problemlerini dahi birkaç komut yardımıyla çözebilen yeni Octra Test Client "ocs01-test" kontratı rehberimiz yayında! Kaçırmayın.
+Octra Labs'in henüz yayınladığı ve karmaşık matematik problemlerini dahi birkaç komut yardımıyla çözebilen yeni Octra Test Client "ocs01-test" kontratı rehberimiz yayında! Kaçırmayın.
 
 https://github.com/owgee-eth/Octra/blob/main/README_II.md
 
